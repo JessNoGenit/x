@@ -4,4 +4,4 @@ $ pkg install nodejs
 $ npm install -g bash-obfuscate
 $ git clone https://github.com/JessNoGenit/x
 $ cd obfuscate
-$ python2 bash.py
+$ python2 jass2.py
